@@ -1,0 +1,25 @@
+#carrossel1-Slides{
+    width: 80%;
+}
+#carrossel2-Slides{
+    width: 80%;
+}
+#carrossel3-Slides{
+    width: 80%;
+}
+#carrossel4-Slides{
+    width: 80%;
+}
+hr{
+    width: 20%;
+    background-color: black;
+}
+body{
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(22, 109, 186);
+    background-image: linear-gradient(to top, rgb(182, 202, 182), rgb(172, 175, 172), rgb(185, 197, 185));
+}
+p{
+    padding: 10px;
+}
